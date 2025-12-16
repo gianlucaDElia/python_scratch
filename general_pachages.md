@@ -54,3 +54,7 @@ dependencies = ["numpy"]
 build.verbose = true
 wheel.expand-macos-universal-tags = true
 ```
+Go to folder main folder moduleName, compile and install:
+```
+pip install . -v
+```
